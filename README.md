@@ -1,11 +1,12 @@
 ## Hi there 👋
-
+🔭 I’m currently working on create my own webpage that is about my portfolio 
+- 🌱 I’m currently learning how be a back-end depeloper 
 <!--
 **nnicolonso/nnicolonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on create my own webpage that is about my portfolio 
+-🔭 I’m currently working on create my own webpage that is about my portfolio 
 - 🌱 I’m currently learning how be a back-end depeloper 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
